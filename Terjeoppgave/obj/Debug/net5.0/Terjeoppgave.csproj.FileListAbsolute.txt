@@ -1,0 +1,5 @@
+C:\Users\JaneC\OneDrive\Dokumenter\MODUL3\Terjeoppgave\obj\Debug\net5.0\Terjeoppgave.csproj.AssemblyReference.cache
+C:\Users\JaneC\OneDrive\Dokumenter\MODUL3\Terjeoppgave\obj\Debug\net5.0\Terjeoppgave.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JaneC\OneDrive\Dokumenter\MODUL3\Terjeoppgave\obj\Debug\net5.0\Terjeoppgave.AssemblyInfoInputs.cache
+C:\Users\JaneC\OneDrive\Dokumenter\MODUL3\Terjeoppgave\obj\Debug\net5.0\Terjeoppgave.AssemblyInfo.cs
+C:\Users\JaneC\OneDrive\Dokumenter\MODUL3\Terjeoppgave\obj\Debug\net5.0\Terjeoppgave.csproj.CoreCompileInputs.cache
